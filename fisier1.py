@@ -4,4 +4,4 @@ print ("linia 3")
 print ("linia 4")
 print ("linia 5")
 print ("linia 6")
-
+print ("linia 7")
